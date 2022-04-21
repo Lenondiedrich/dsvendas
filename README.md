@@ -33,7 +33,10 @@
 <hr />
 <h4>Acesse a aplicação rodando no Netlify aqui: -> <a href="https://lenon-dsvendas.netlify.app/">DSVendas</a></h4>
 <h3>📟 Layout da aplicação:</h3>
-
+  <img src="./dashboard.png" />
+  <img src="./running.gif" /> 
+  
+  
 <h3>⚙️ Instalação: </h3>
 
     # Clone o repositório
